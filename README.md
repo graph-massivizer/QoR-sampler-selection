@@ -18,7 +18,11 @@ This tutorial includes instructions for graph data preparation, processing, samp
 11. Publications
 
 ## Installation guide
-
+Required libraries:
+* Networkx
+* Networkit
+* SnapStanford
+  
 ## Model description
 ### Sampling algorithms
 Our model predicts and recommends graph sampling algorithms of three categories, based on quality and performance metrics. It considers twelve sampling algorithms listed below:
