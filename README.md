@@ -239,4 +239,5 @@ The notebook *result_analysis/ML-explainability* ranks different input graph and
 
 ## Publications
 This repository is the implementation of the following paper:
+
 S. H. S. Dizaji, R. Farahani, J. M. Rožanec, D. Kimovski, A. Soylu and R. Prodan, "Graph Sampling Quality Prediction for Algorithm Recommendation," 2024 IEEE 31st International Conference on High Performance Computing, Data, and Analytics (HiPC), Bangalore, India, 2024, pp. 243-254, doi: 10.1109/HiPC62374.2024.00032.
