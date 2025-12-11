@@ -15,6 +15,7 @@ This tutorial includes instructions for graph data preparation, processing, samp
 8. Model testing
 9. Result analysis
 10. ML explainability
+11. Publications
 
 ## Installation guide
 
@@ -235,3 +236,7 @@ The notebook *result_analysis/result_analysis.ipynb* calculates RMSE of predicti
 
 ## ML explainability
 The notebook *result_analysis/ML-explainability* ranks different input graph and sampling features according to their calculated importance using LIME library. It provides average rankings for each ML model and quality metric. 
+
+## Publications
+This repository is the implementation of the following paper:
+S. H. S. Dizaji, R. Farahani, J. M. Rožanec, D. Kimovski, A. Soylu and R. Prodan, "Graph Sampling Quality Prediction for Algorithm Recommendation," 2024 IEEE 31st International Conference on High Performance Computing, Data, and Analytics (HiPC), Bangalore, India, 2024, pp. 243-254, doi: 10.1109/HiPC62374.2024.00032.
